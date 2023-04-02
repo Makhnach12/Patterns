@@ -3,4 +3,4 @@ project(Patterns)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Patterns main.cpp singleton.cpp singleton.h)
+add_executable(Patterns main.cpp singleton.cpp singleton.h builder.cpp builder.h)
